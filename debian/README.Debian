@@ -1,7 +1,0 @@
-Ioncube for debian
-------------------
-
-Ioncube provides plugins for multiple PHP versions, this package only
-installs the PHP 5.2 plugin.
-
- -- Shaun Bugler <shaun.bugler@hetzner.co.za>, Wed, 10 Nov 2010 10:04:12 +0200
