@@ -2,5 +2,5 @@
 %:
 	    dh $@
 override_dh_install:
-	dh_install --sourcedir=usr/lib/php5/20131226/ ioncube_loader_lin_5.6.so /usr/lib/php5/20131226/
+	dh_install --sourcedir=/usr/lib/php5/20131226/ ioncube_loader_lin_5.6.so /usr/lib/php5/20131226/
 #	dh_install usr/lib/php5/20131226/ioncube_loader_lin_5.6_ts.so /usr/lib/php5/20131226/
