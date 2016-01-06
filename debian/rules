@@ -1,6 +1,11 @@
 #!/usr/bin/make -f
+# -*- makefile -*-
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
 %:
-	    dh $@
-override_dh_install:
-	dh_install --sourcedir=/usr/lib/php5/20131226/ ioncube_loader_lin_5.6.so /usr/lib/php5/20131226/
-#	dh_install usr/lib/php5/20131226/ioncube_loader_lin_5.6_ts.so /usr/lib/php5/20131226/
+  dh $@ 
+
+  override_dh_auto_install:
+    dh_install ioncube_loader_lin_5.6.so usr/bin/
