@@ -1,3 +1,9 @@
+ioncube-loader (5.0.7+hetz3~exp25) jessie-hetz-experimental; urgency=low
+
+  * Use install file again 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 06 Jan 2016 14:47:41 +0200
+
 ioncube-loader (5.0.7+hetz3~exp24) jessie-hetz-experimental; urgency=low
 
   * Correct formatting 

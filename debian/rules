@@ -6,6 +6,3 @@
 
 %:
 	dh $@ 
-
-override_dh_auto_install:
-	dh_install ioncube_loader_lin_5.6.so usr/bin/
