@@ -1,3 +1,10 @@
+ioncube-loader (5.0.7+hetz3~exp1) jessie-hetz-experimental; urgency=low
+
+  * Build 32bit for Jessie
+  * Use new debhelper format
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 06 Jan 2016 10:37:58 +0200
+
 ioncube-loader (5.0.7+hetz2) wheezy-hetz; urgency=low
 
   * Released 5.0.7+hetz2~exp3 as 5.0.7+hetz2
