@@ -1,3 +1,9 @@
+ioncube-loader (5.0.7+hetz3~exp29) jessie-hetz-experimental; urgency=low
+
+  * No longer use install file 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 06 Jan 2016 15:25:00 +0200
+
 ioncube-loader (5.0.7+hetz3~exp28) jessie-hetz-experimental; urgency=low
 
   * Fix multiple branches 
