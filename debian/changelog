@@ -1,3 +1,9 @@
+ioncube-loader (5.0.7+hetz3~exp30) jessie-hetz-experimental; urgency=low
+
+  * Add to include binaries 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 06 Jan 2016 15:30:28 +0200
+
 ioncube-loader (5.0.7+hetz3~exp29) jessie-hetz-experimental; urgency=low
 
   * No longer use install file 
