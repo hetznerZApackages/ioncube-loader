@@ -1,3 +1,9 @@
+ioncube-loader (5.0.7+hetz3~exp20) jessie-hetz-experimental; urgency=low
+
+  * Try full path 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 06 Jan 2016 14:22:02 +0200
+
 ioncube-loader (5.0.7+hetz3~exp19) jessie-hetz-experimental; urgency=low
 
   * Correct the path 
