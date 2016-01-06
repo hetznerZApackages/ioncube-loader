@@ -1,3 +1,9 @@
+ioncube-loader (5.0.7+hetz3~exp14) jessie-hetz-experimental; urgency=low
+
+  * simpler dh_install override 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 06 Jan 2016 13:51:15 +0200
+
 ioncube-loader (5.0.7+hetz3~exp13) jessie-hetz-experimental; urgency=low
 
   * Trial and error
