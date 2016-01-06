@@ -6,3 +6,7 @@
 
 %:
 	dh $@ 
+
+override_dh_auto_install:
+	dh_installdirs
+	cp -r $(CURDIR)/ioncube_loader_lin_5.6*.so $(CURDIR)/debian/ioncube-loader/usr/lib/php56/20131226/
