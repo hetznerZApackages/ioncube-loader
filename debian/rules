@@ -6,8 +6,5 @@ override_dh_auto_install:
 	# Add here commands to install the package into debian/ioncube.
 	mkdir -p $(CURDIR)/debian/ioncube-loader/usr/lib/php5/20131226/
 	mkdir -p $(CURDIR)/debian/ioncube-loader/usr/share/php/ioncube_loader/
-	cp -r $(CURDIR)/ioncube_loader_lin_5.6*.so $(CURDIR)/debian/ioncube-loader/usr/lib/php5/20131226/
-	cp $(CURDIR)/*.php $(CURDIR)/debian/ioncube-loader/usr/share/php/ioncube_loader/
-	chrpath -d $(CURDIR)/debian/ioncube-loader/usr/lib/php5/20131226/ioncube_loader_lin_5.*
 	
 	dh_auto_install

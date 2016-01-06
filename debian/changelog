@@ -1,3 +1,9 @@
+ioncube-loader (5.0.7+hetz3~exp2) jessie-hetz-experimental; urgency=low
+
+  * Continue moving towards proper build methodology 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 06 Jan 2016 10:45:33 +0200
+
 ioncube-loader (5.0.7+hetz3~exp1) jessie-hetz-experimental; urgency=low
 
   * Build 32bit for Jessie
